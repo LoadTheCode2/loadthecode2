@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on secret projects
-- 🌱 I’m currently learning at LHA
+- 🌱 I’m currently learning at High School
 - 👯 I’m looking to collaborate on something interesting 
 - 🤔 I’m looking for help with machine learning
 - 💬 Ask me about web dev and minecraft plugin development
