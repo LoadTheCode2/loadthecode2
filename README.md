@@ -5,10 +5,10 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on secret projects
-- 🌱 I’m currently learning at school
+- 🌱 I’m currently learning rust and subject at school
 - 👯 I’m looking to collaborate on something interesting 
-- 🤔 I’m looking for help with machine learning
-- 💬 Ask me about web dev and minecraft plugin development
+- 🤔 I’m looking for help with machine learning and rust
+- 💬 Ask me about web development and MineCraft plugin development
 - 📫 How to reach me: loadthecode (Discord)
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He/Him/Tomato
 - ⚡ Fun fact: Tomato 🍅 
